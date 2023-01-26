@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-shoka"]
+	path = themes/hugo-theme-shoka
+	url = https://github.com/birdgg/hugo-theme-shoka.git
